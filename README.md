@@ -14,4 +14,4 @@ To aid in the easy configuration of the motor driver and sim setup, I also devel
 
 ![image](https://user-images.githubusercontent.com/27387872/120056817-c5fbf180-c07d-11eb-8c67-f6a8f7997dda.png)
 
-Further details and discussion about the app can also be found on the xsimulatom forum website link above.
+Further details and discussion about the app can also be found on the xsimulator forum website link above.
