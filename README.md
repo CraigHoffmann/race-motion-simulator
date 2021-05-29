@@ -1,6 +1,6 @@
 # Motion Simulator for Online Motor Racing
 
-This is just a personal record of my motion simulator build and configuration for future reference.  This type of simulator is commonly referred to as a seatmover and is ideal for driving simulation.  The seat pivots and is driven by two motors to produce a roll and pitch action.  These two seat movements can be used to simulate vehicle roll, pitch, acceleration, sway, and verticle heave (road surface noise). I also have a seatbelt tensioner to assist in the braking simulation feel and another motor to provide traction loss motion which rotates the entire rig around a pivot point just in front of the foot pedals.
+This is just a personal record of my motion simulator build and configuration for future reference.  This type of simulator is commonly referred to as a seatmover and is ideal for driving simulation.  The seat pivots and is driven by two motors to produce a roll and pitch action.  These two seat movements can be used to simulate vehicle roll, pitch, acceleration, sway, and verticle heave (road surface noise). I also have a motorised seatbelt tensioner to assist in the braking simulation feel and another motor to provide traction loss motion which rotates the entire rig around a pivot point just in front of the foot pedals.
 
 ![SimSeat](https://github.com/CraigHoffmann/race-motion-simulator/blob/master/Images/sim2.jpg?raw=true)
 
