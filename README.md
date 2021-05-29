@@ -2,6 +2,8 @@
 
 This is just a personal record of my motion simulator build and configuration for future reference.
 
+![SimSeat](https://github.com/CraigHoffmann/race-motion-simulator/blob/master/Images/sim2.jpg?raw=true)
+
 ## SMC3
 SMC3 is the arduino uno based motor driver I developed for the motion sim.
 
